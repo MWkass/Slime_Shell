@@ -1,0 +1,20 @@
+# Variáveis de Ambiente e Cofres Locais
+.env
+config.json
+sync_git.sh
+
+# Dados de Persistência e Logs
+historico.json
+cache_buscas.json
+debug.log
+
+
+# Ambientes Virtuais Python
+slime_virtual/
+
+# Caches Python e geral
+__pycache__/
+*.pyc
+GEMINI.md
+shaders/
+anilist.py
